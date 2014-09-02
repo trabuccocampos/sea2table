@@ -1,0 +1,16 @@
+
+@media print {
+	header, footer {
+		display: none;
+	}
+	body {
+		background-color: transparent;
+	}	
+	.wrapper {
+		width: 90%;
+	}
+
+	section {
+		height: 100%;
+	}
+}

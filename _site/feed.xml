@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sea To Table</title>
+    <description>Online tool built for Sea To Table in order to easily modify templates for print and online sharing. Built by A.A. Trabucco-Campos.
+</description>
+    <link>https://github.com/trabuccocampos/sea2table.github.io.githttps://github.com/trabuccocampos/sea2table.github.io.git/</link>
+    <atom:link href="https://github.com/trabuccocampos/sea2table.github.io.githttps://github.com/trabuccocampos/sea2table.github.io.git/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 02 Sep 2014 22:24:16 +0200</pubDate>
+    <lastBuildDate>Tue, 02 Sep 2014 22:24:16 +0200</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Example</title>
+        <description>
+</description>
+        <pubDate>Sun, 31 Aug 2014 15:07:59 +0200</pubDate>
+        <link>https://github.com/trabuccocampos/sea2table.github.io.githttps://github.com/trabuccocampos/sea2table.github.io.git/chef/2014/08/31/Sean-and-DaveTucker.html</link>
+        <guid isPermaLink="true">https://github.com/trabuccocampos/sea2table.github.io.githttps://github.com/trabuccocampos/sea2table.github.io.git/chef/2014/08/31/Sean-and-DaveTucker.html</guid>
+        
+        
+        <category>chef</category>
+        
+      </item>
+    
+      <item>
+        <title>Example: Chef Brandon Walker</title>
+        <description>
+</description>
+        <pubDate>Sun, 31 Aug 2014 15:07:58 +0200</pubDate>
+        <link>https://github.com/trabuccocampos/sea2table.github.io.githttps://github.com/trabuccocampos/sea2table.github.io.git/chef/2014/08/31/Chef-Brandon.html</link>
+        <guid isPermaLink="true">https://github.com/trabuccocampos/sea2table.github.io.githttps://github.com/trabuccocampos/sea2table.github.io.git/chef/2014/08/31/Chef-Brandon.html</guid>
+        
+        
+        <category>chef</category>
+        
+      </item>
+    
+  </channel>
+</rss>
