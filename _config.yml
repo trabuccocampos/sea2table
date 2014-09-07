@@ -4,7 +4,7 @@ email: michael@sea2table.com
 description: > # this means to ignore newlines until "baseurl:"
   Online tool built for Sea To Table in order to easily modify templates for print and online sharing. Built by A.A. Trabucco-Campos.
 baseurl: "/sea2table" # the subpath of your site, e.g. /blog/
-url: "https://github.com/trabuccocampos/sea2table/index.html" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: sea2table
 built_by_username:  trabuccocampos
 
