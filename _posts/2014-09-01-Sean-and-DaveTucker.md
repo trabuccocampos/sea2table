@@ -7,7 +7,7 @@ categories: chef
 image: "Sean Dimin and Capt David Tucker.jpeg"
 image-description: Sean Dimin and Capt David Tucker
 
-restaurant: Here
+restaurant: The Green Table
 fisherman: Capt. David Tucker
 dock: Beaufort, NC
 ---
